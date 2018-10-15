@@ -1,0 +1,20 @@
+.container {
+  width:800px; 
+  height: 500px;   
+}
+
+.introFrame {
+	width:500px;
+	height:30px;
+	background: #1a4876 ; 
+	line-height:30px; 
+	text-align:center;  
+	color:#FFFFFF ; 
+	border: 2px solid #CCCCCC ;
+	border-radius:10px ; 
+	
+	}
+	
+.introFrame:hover{ 
+    background:#99bde4;
+    }
